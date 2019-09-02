@@ -1,0 +1,941 @@
+departure_terminal,arrival_terminal,vessel_name,scheduled_departure_year,scheduled_departure_month,scheduled_departure_day,scheduled_departure_hour,scheduled_departure_minute,actual_departure_year,actual_departure_month,actual_departure_day,actual_departure_hour,actual_departure_minute,arrival_year,arrival_month,arrival_day,arrival_hour,arrival_minute
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,1,6,0,2017,7,1,6,7,2017,7,1,7,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,1,7,0,2017,7,1,7,1,2017,7,1,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,1,8,0,2017,7,1,8,9,2017,7,1,9,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,1,9,0,2017,7,1,9,1,2017,7,1,10,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,1,10,0,2017,7,1,10,2,2017,7,1,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,1,11,0,2017,7,1,11,5,2017,7,1,12,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,1,14,0,2017,7,1,14,3,2017,7,1,15,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,1,15,0,2017,7,1,15,1,2017,7,1,16,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,1,16,0,2017,7,1,16,2,2017,7,1,17,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,1,17,0,2017,7,1,17,1,2017,7,1,18,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,1,18,0,2017,7,1,18,0,2017,7,1,19,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,1,19,0,2017,7,1,19,25,2017,7,1,20,52
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,1,20,0,2017,7,1,20,2,2017,7,1,21,24
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,1,21,0,2017,7,1,21,1,2017,7,1,22,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,1,6,0,2017,7,1,6,3,2017,7,1,7,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,1,7,0,2017,7,1,7,1,2017,7,1,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,1,8,0,2017,7,1,8,5,2017,7,1,9,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,1,9,0,2017,7,1,9,0,2017,7,1,10,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,1,10,0,2017,7,1,10,3,2017,7,1,11,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,1,11,0,2017,7,1,11,0,2017,7,1,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,1,12,0,2017,7,1,12,2,2017,7,1,13,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,1,13,0,2017,7,1,13,1,2017,7,1,14,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,1,14,0,2017,7,1,14,2,2017,7,1,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,1,15,0,2017,7,1,15,0,2017,7,1,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,1,16,0,2017,7,1,15,59,2017,7,1,17,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,1,17,0,2017,7,1,17,1,2017,7,1,18,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,1,18,0,2017,7,1,18,2,2017,7,1,19,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,1,19,0,2017,7,1,18,59,2017,7,1,20,26
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,1,20,0,2017,7,1,19,59,2017,7,1,21,20
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,1,21,0,2017,7,1,21,11,2017,7,1,22,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,2,7,0,2017,7,2,7,2,2017,7,2,8,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,2,8,0,2017,7,2,8,2,2017,7,2,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,2,9,0,2017,7,2,9,1,2017,7,2,10,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,2,10,0,2017,7,2,10,5,2017,7,2,11,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,2,11,0,2017,7,2,10,56,2017,7,2,12,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,2,12,0,2017,7,2,12,4,2017,7,2,13,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,2,13,0,2017,7,2,12,58,2017,7,2,14,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,2,14,0,2017,7,2,14,3,2017,7,2,15,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,2,15,0,2017,7,2,15,0,2017,7,2,16,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,2,16,0,2017,7,2,16,2,2017,7,2,17,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,2,17,0,2017,7,2,17,2,2017,7,2,18,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,2,18,0,2017,7,2,18,2,2017,7,2,19,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,2,19,0,2017,7,2,19,0,2017,7,2,20,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,2,21,0,2017,7,2,21,2,2017,7,2,22,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,2,7,0,2017,7,2,7,6,2017,7,2,8,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,2,8,0,2017,7,2,8,2,2017,7,2,9,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,2,9,0,2017,7,2,9,0,2017,7,2,10,26
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,2,10,0,2017,7,2,10,7,2017,7,2,11,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,2,11,0,2017,7,2,11,3,2017,7,2,12,25
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,2,12,0,2017,7,2,12,8,2017,7,2,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,2,13,0,2017,7,2,13,1,2017,7,2,14,26
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,2,14,0,2017,7,2,14,7,2017,7,2,15,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,2,15,0,2017,7,2,15,2,2017,7,2,16,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,2,16,0,2017,7,2,16,5,2017,7,2,17,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,2,17,0,2017,7,2,17,6,2017,7,2,18,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,2,18,0,2017,7,2,18,2,2017,7,2,19,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,2,19,0,2017,7,2,19,5,2017,7,2,20,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,2,21,0,2017,7,2,21,0,2017,7,2,22,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,3,7,0,2017,7,3,7,0,2017,7,3,8,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,3,8,0,2017,7,3,8,0,2017,7,3,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,3,9,0,2017,7,3,9,0,2017,7,3,10,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,3,10,0,2017,7,3,10,6,2017,7,3,11,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,3,11,0,2017,7,3,11,1,2017,7,3,12,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,3,12,0,2017,7,3,12,5,2017,7,3,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,3,13,0,2017,7,3,13,4,2017,7,3,14,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,3,14,0,2017,7,3,14,8,2017,7,3,15,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,3,15,0,2017,7,3,15,2,2017,7,3,16,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,3,16,0,2017,7,3,16,4,2017,7,3,17,26
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,3,17,0,2017,7,3,17,3,2017,7,3,18,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,3,18,0,2017,7,3,18,12,2017,7,3,19,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,3,19,0,2017,7,3,19,3,2017,7,3,20,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,3,21,0,2017,7,3,21,2,2017,7,3,22,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,3,22,0,2017,7,3,22,0,2017,7,3,23,35
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,3,7,0,2017,7,3,7,1,2017,7,3,8,26
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,3,8,0,2017,7,3,8,7,2017,7,3,9,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,3,9,0,2017,7,3,9,3,2017,7,3,10,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,3,10,0,2017,7,3,10,9,2017,7,3,11,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,3,11,0,2017,7,3,11,5,2017,7,3,12,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,3,12,0,2017,7,3,12,12,2017,7,3,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,3,13,0,2017,7,3,13,6,2017,7,3,14,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,3,14,0,2017,7,3,14,8,2017,7,3,15,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,3,15,0,2017,7,3,15,7,2017,7,3,16,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,3,16,0,2017,7,3,16,9,2017,7,3,17,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,3,17,0,2017,7,3,17,9,2017,7,3,18,36
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,3,18,0,2017,7,3,18,1,2017,7,3,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,3,19,0,2017,7,3,19,10,2017,7,3,20,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,3,20,0,2017,7,3,20,2,2017,7,3,21,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,3,21,0,2017,7,3,20,59,2017,7,3,22,26
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,3,22,0,2017,7,3,21,59,2017,7,3,23,24
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,4,6,0,2017,7,4,6,3,2017,7,4,7,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,4,7,0,2017,7,4,6,59,2017,7,4,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,4,8,0,2017,7,4,8,2,2017,7,4,9,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,4,9,0,2017,7,4,9,5,2017,7,4,10,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,4,10,0,2017,7,4,10,1,2017,7,4,11,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,4,11,0,2017,7,4,11,2,2017,7,4,12,40
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,4,12,0,2017,7,4,12,3,2017,7,4,13,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,4,13,0,2017,7,4,13,7,2017,7,4,14,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,4,14,0,2017,7,4,14,4,2017,7,4,15,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,4,15,0,2017,7,4,15,1,2017,7,4,16,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,4,16,0,2017,7,4,16,22,2017,7,4,17,46
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,4,17,0,2017,7,4,17,0,2017,7,4,18,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,4,18,0,2017,7,4,18,0,2017,7,4,19,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,4,19,0,2017,7,4,19,1,2017,7,4,20,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,4,20,0,2017,7,4,20,10,2017,7,4,21,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,4,21,0,2017,7,4,21,2,2017,7,4,22,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,4,6,0,2017,7,4,6,1,2017,7,4,7,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,4,7,0,2017,7,4,7,0,2017,7,4,8,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,4,8,0,2017,7,4,8,0,2017,7,4,9,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,4,9,0,2017,7,4,9,0,2017,7,4,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,4,10,0,2017,7,4,10,2,2017,7,4,11,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,4,11,0,2017,7,4,11,3,2017,7,4,12,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,4,12,0,2017,7,4,12,3,2017,7,4,13,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,4,13,0,2017,7,4,13,9,2017,7,4,14,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,4,14,0,2017,7,4,14,0,2017,7,4,15,48
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,4,15,0,2017,7,4,15,5,2017,7,4,16,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,4,16,0,2017,7,4,16,8,2017,7,4,17,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,4,17,0,2017,7,4,17,0,2017,7,4,18,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,4,18,0,2017,7,4,18,12,2017,7,4,19,46
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,4,19,0,2017,7,4,19,0,2017,7,4,20,36
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,4,20,0,2017,7,4,20,1,2017,7,4,21,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,4,21,0,2017,7,4,21,1,2017,7,4,22,28
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,5,6,0,2017,7,5,6,2,2017,7,5,7,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,5,7,0,2017,7,5,6,59,2017,7,5,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,5,8,0,2017,7,5,8,6,2017,7,5,9,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,5,9,0,2017,7,5,9,0,2017,7,5,10,28
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,5,10,0,2017,7,5,10,2,2017,7,5,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,5,11,0,2017,7,5,11,1,2017,7,5,12,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,5,12,0,2017,7,5,12,8,2017,7,5,13,40
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,5,13,0,2017,7,5,13,1,2017,7,5,14,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,5,14,0,2017,7,5,14,0,2017,7,5,15,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,5,15,0,2017,7,5,15,0,2017,7,5,16,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,5,16,0,2017,7,5,16,8,2017,7,5,17,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,5,17,0,2017,7,5,17,2,2017,7,5,18,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,5,18,0,2017,7,5,18,0,2017,7,5,19,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,5,19,0,2017,7,5,19,4,2017,7,5,20,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,5,20,0,2017,7,5,20,8,2017,7,5,21,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,5,21,0,2017,7,5,20,58,2017,7,5,22,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,5,6,0,2017,7,5,6,3,2017,7,5,7,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,5,7,0,2017,7,5,7,0,2017,7,5,8,26
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,5,8,0,2017,7,5,8,1,2017,7,5,9,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,5,9,0,2017,7,5,9,0,2017,7,5,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,5,10,0,2017,7,5,10,1,2017,7,5,11,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,5,11,0,2017,7,5,11,0,2017,7,5,12,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,5,12,0,2017,7,5,12,9,2017,7,5,13,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,5,13,0,2017,7,5,13,3,2017,7,5,14,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,5,14,0,2017,7,5,14,9,2017,7,5,15,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,5,15,0,2017,7,5,15,2,2017,7,5,16,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,5,16,0,2017,7,5,16,1,2017,7,5,17,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,5,17,0,2017,7,5,16,59,2017,7,5,18,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,5,18,0,2017,7,5,18,1,2017,7,5,19,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,5,19,0,2017,7,5,18,59,2017,7,5,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,5,20,0,2017,7,5,20,0,2017,7,5,21,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,5,21,0,2017,7,5,20,58,2017,7,5,22,26
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,6,6,0,2017,7,6,6,4,2017,7,6,7,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,6,7,0,2017,7,6,7,0,2017,7,6,8,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,6,8,0,2017,7,6,8,2,2017,7,6,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,6,9,0,2017,7,6,9,2,2017,7,6,10,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,6,10,0,2017,7,6,10,2,2017,7,6,11,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,6,11,0,2017,7,6,11,11,2017,7,6,12,42
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,6,12,0,2017,7,6,12,8,2017,7,6,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,6,13,0,2017,7,6,13,5,2017,7,6,14,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,6,14,0,2017,7,6,14,1,2017,7,6,15,33
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,6,15,0,2017,7,6,15,11,2017,7,6,16,42
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,6,16,0,2017,7,6,16,9,2017,7,6,17,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,6,17,0,2017,7,6,16,59,2017,7,6,18,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,6,19,0,2017,7,6,19,5,2017,7,6,20,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,6,20,0,2017,7,6,20,3,2017,7,6,21,26
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,6,21,0,2017,7,6,21,1,2017,7,6,22,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,6,6,0,2017,7,6,6,4,2017,7,6,7,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,6,7,0,2017,7,6,7,3,2017,7,6,8,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,6,8,0,2017,7,6,8,5,2017,7,6,9,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,6,9,0,2017,7,6,9,11,2017,7,6,10,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,6,10,0,2017,7,6,10,0,2017,7,6,11,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,6,11,0,2017,7,6,11,1,2017,7,6,12,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,6,12,0,2017,7,6,12,1,2017,7,6,13,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,6,13,0,2017,7,6,13,12,2017,7,6,14,40
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,6,14,0,2017,7,6,14,5,2017,7,6,15,42
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,6,15,0,2017,7,6,15,5,2017,7,6,16,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,6,16,0,2017,7,6,16,2,2017,7,6,17,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,6,17,0,2017,7,6,17,11,2017,7,6,18,38
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,6,18,0,2017,7,6,18,6,2017,7,6,19,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,6,19,0,2017,7,6,19,3,2017,7,6,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,6,20,0,2017,7,6,20,2,2017,7,6,21,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,6,21,0,2017,7,6,20,59,2017,7,6,22,27
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,7,7,0,2017,7,7,7,1,2017,7,7,8,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,7,8,0,2017,7,7,8,3,2017,7,7,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,7,9,0,2017,7,7,9,1,2017,7,7,10,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,7,10,0,2017,7,7,10,9,2017,7,7,11,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,7,11,0,2017,7,7,11,4,2017,7,7,12,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,7,12,0,2017,7,7,12,4,2017,7,7,13,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,7,13,0,2017,7,7,13,9,2017,7,7,14,48
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,7,14,0,2017,7,7,14,10,2017,7,7,15,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,7,15,0,2017,7,7,15,13,2017,7,7,16,42
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,7,16,0,2017,7,7,16,5,2017,7,7,17,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,7,17,0,2017,7,7,17,27,2017,7,7,18,54
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,7,18,0,2017,7,7,18,16,2017,7,7,19,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,7,19,0,2017,7,7,19,11,2017,7,7,20,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,7,20,0,2017,7,7,20,17,2017,7,7,21,42
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,7,21,0,2017,7,7,21,27,2017,7,7,22,50
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,7,22,0,2017,7,7,22,3,2017,7,7,23,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,7,7,0,2017,7,7,7,3,2017,7,7,8,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,7,8,0,2017,7,7,8,4,2017,7,7,9,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,7,9,0,2017,7,7,9,2,2017,7,7,10,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,7,10,0,2017,7,7,10,8,2017,7,7,11,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,7,11,0,2017,7,7,11,6,2017,7,7,12,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,7,12,0,2017,7,7,12,12,2017,7,7,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,7,13,0,2017,7,7,13,12,2017,7,7,14,40
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,7,14,0,2017,7,7,14,11,2017,7,7,15,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,7,15,0,2017,7,7,15,21,2017,7,7,16,48
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,7,16,0,2017,7,7,16,13,2017,7,7,17,42
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,7,17,0,2017,7,7,17,14,2017,7,7,18,40
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,7,18,0,2017,7,7,18,11,2017,7,7,19,42
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,7,19,0,2017,7,7,19,27,2017,7,7,20,56
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,7,20,0,2017,7,7,20,5,2017,7,7,21,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,7,21,0,2017,7,7,21,1,2017,7,7,22,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,7,22,0,2017,7,7,22,4,2017,7,7,23,39
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,8,6,0,2017,7,8,6,0,2017,7,8,7,26
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,8,8,0,2017,7,8,8,9,2017,7,8,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,8,9,0,2017,7,8,9,1,2017,7,8,10,28
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,8,10,0,2017,7,8,10,2,2017,7,8,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,8,11,0,2017,7,8,11,4,2017,7,8,12,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,8,12,0,2017,7,8,12,21,2017,7,8,13,42
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,8,13,0,2017,7,8,13,7,2017,7,8,14,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,8,14,0,2017,7,8,14,6,2017,7,8,15,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,8,15,0,2017,7,8,15,2,2017,7,8,16,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,8,16,0,2017,7,8,16,6,2017,7,8,17,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,8,17,0,2017,7,8,16,59,2017,7,8,18,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,8,18,0,2017,7,8,17,59,2017,7,8,19,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,8,19,0,2017,7,8,19,0,2017,7,8,20,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,8,20,0,2017,7,8,20,0,2017,7,8,21,26
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,8,21,0,2017,7,8,21,14,2017,7,8,22,38
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,8,6,0,2017,7,8,6,2,2017,7,8,7,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,8,7,0,2017,7,8,7,0,2017,7,8,8,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,8,9,0,2017,7,8,9,1,2017,7,8,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,8,10,0,2017,7,8,10,13,2017,7,8,11,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,8,11,0,2017,7,8,11,0,2017,7,8,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,8,12,0,2017,7,8,12,3,2017,7,8,13,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,8,13,0,2017,7,8,13,0,2017,7,8,14,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,8,14,0,2017,7,8,14,11,2017,7,8,15,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,8,15,0,2017,7,8,15,3,2017,7,8,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,8,16,0,2017,7,8,16,8,2017,7,8,17,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,8,17,0,2017,7,8,17,0,2017,7,8,18,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,8,18,0,2017,7,8,18,3,2017,7,8,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,8,19,0,2017,7,8,19,30,2017,7,8,20,54
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,8,20,0,2017,7,8,20,0,2017,7,8,21,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,8,21,0,2017,7,8,21,0,2017,7,8,22,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,9,7,0,2017,7,9,7,0,2017,7,9,8,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,9,8,0,2017,7,9,8,1,2017,7,9,9,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,9,9,0,2017,7,9,9,9,2017,7,9,10,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,9,10,0,2017,7,9,10,3,2017,7,9,11,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,9,11,0,2017,7,9,11,1,2017,7,9,12,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,9,12,0,2017,7,9,12,1,2017,7,9,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,9,13,0,2017,7,9,13,5,2017,7,9,14,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,9,14,0,2017,7,9,14,11,2017,7,9,15,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,9,15,0,2017,7,9,15,7,2017,7,9,16,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,9,16,0,2017,7,9,16,5,2017,7,9,17,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,9,17,0,2017,7,9,17,17,2017,7,9,18,42
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,9,18,0,2017,7,9,18,15,2017,7,9,19,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,9,19,0,2017,7,9,19,20,2017,7,9,20,44
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,9,20,0,2017,7,9,20,12,2017,7,9,21,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,9,21,0,2017,7,9,21,20,2017,7,9,22,46
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,9,22,0,2017,7,9,22,10,2017,7,9,23,45
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,9,7,0,2017,7,9,7,0,2017,7,9,8,40
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,9,8,0,2017,7,9,8,2,2017,7,9,9,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,9,9,0,2017,7,9,9,0,2017,7,9,10,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,9,10,0,2017,7,9,10,2,2017,7,9,11,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,9,11,0,2017,7,9,11,1,2017,7,9,12,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,9,12,0,2017,7,9,12,6,2017,7,9,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,9,13,0,2017,7,9,13,2,2017,7,9,14,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,9,14,0,2017,7,9,14,7,2017,7,9,15,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,9,15,0,2017,7,9,15,9,2017,7,9,16,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,9,16,0,2017,7,9,16,11,2017,7,9,17,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,9,17,0,2017,7,9,17,15,2017,7,9,18,40
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,9,18,0,2017,7,9,18,6,2017,7,9,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,9,19,0,2017,7,9,19,18,2017,7,9,20,42
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,9,20,0,2017,7,9,20,8,2017,7,9,21,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,9,21,0,2017,7,9,21,20,2017,7,9,22,46
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,9,22,0,2017,7,9,22,0,2017,7,9,23,35
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,10,6,0,2017,7,10,6,5,2017,7,10,7,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,10,7,0,2017,7,10,6,59,2017,7,10,8,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,10,8,0,2017,7,10,8,2,2017,7,10,9,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,10,9,0,2017,7,10,9,1,2017,7,10,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,10,10,0,2017,7,10,10,3,2017,7,10,11,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,10,11,0,2017,7,10,11,9,2017,7,10,12,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,10,12,0,2017,7,10,12,13,2017,7,10,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,10,13,0,2017,7,10,13,8,2017,7,10,14,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,10,14,0,2017,7,10,14,8,2017,7,10,15,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,10,15,0,2017,7,10,15,5,2017,7,10,16,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,10,16,0,2017,7,10,16,10,2017,7,10,17,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,10,17,0,2017,7,10,17,6,2017,7,10,18,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,10,18,0,2017,7,10,18,2,2017,7,10,19,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,10,19,0,2017,7,10,19,4,2017,7,10,20,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,10,20,0,2017,7,10,20,14,2017,7,10,21,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,10,21,0,2017,7,10,21,0,2017,7,10,22,26
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,10,6,0,2017,7,10,6,1,2017,7,10,7,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,10,7,0,2017,7,10,7,0,2017,7,10,8,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,10,8,0,2017,7,10,8,3,2017,7,10,9,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,10,9,0,2017,7,10,9,1,2017,7,10,10,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,10,10,0,2017,7,10,10,9,2017,7,10,11,42
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,10,11,0,2017,7,10,11,3,2017,7,10,12,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,10,12,0,2017,7,10,12,4,2017,7,10,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,10,13,0,2017,7,10,13,2,2017,7,10,14,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,10,14,0,2017,7,10,14,2,2017,7,10,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,10,15,0,2017,7,10,15,3,2017,7,10,16,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,10,16,0,2017,7,10,16,5,2017,7,10,17,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,10,17,0,2017,7,10,17,1,2017,7,10,18,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,10,18,0,2017,7,10,18,2,2017,7,10,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,10,19,0,2017,7,10,19,2,2017,7,10,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,10,20,0,2017,7,10,20,1,2017,7,10,21,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,10,21,0,2017,7,10,20,59,2017,7,10,22,26
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,11,6,0,2017,7,11,6,0,2017,7,11,7,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,11,7,0,2017,7,11,6,59,2017,7,11,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,11,8,0,2017,7,11,8,5,2017,7,11,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,11,9,0,2017,7,11,9,3,2017,7,11,10,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,11,11,0,2017,7,11,11,4,2017,7,11,12,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,11,12,0,2017,7,11,12,7,2017,7,11,13,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,11,14,0,2017,7,11,14,5,2017,7,11,15,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,11,15,0,2017,7,11,15,1,2017,7,11,16,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,11,16,0,2017,7,11,16,3,2017,7,11,17,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,11,17,0,2017,7,11,16,59,2017,7,11,18,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,11,18,0,2017,7,11,18,2,2017,7,11,19,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,11,19,0,2017,7,11,19,1,2017,7,11,20,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,11,20,0,2017,7,11,20,0,2017,7,11,21,26
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,11,21,0,2017,7,11,21,1,2017,7,11,22,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,11,6,0,2017,7,11,6,2,2017,7,11,7,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,11,7,0,2017,7,11,7,0,2017,7,11,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,11,8,0,2017,7,11,8,4,2017,7,11,9,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,11,9,0,2017,7,11,8,59,2017,7,11,10,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,11,10,0,2017,7,11,10,4,2017,7,11,11,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,11,11,0,2017,7,11,11,2,2017,7,11,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,11,12,0,2017,7,11,12,2,2017,7,11,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,11,13,0,2017,7,11,13,0,2017,7,11,14,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,11,14,0,2017,7,11,14,1,2017,7,11,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,11,15,0,2017,7,11,14,59,2017,7,11,16,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,11,16,0,2017,7,11,16,4,2017,7,11,17,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,11,17,0,2017,7,11,17,4,2017,7,11,18,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,11,18,0,2017,7,11,18,0,2017,7,11,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,11,19,0,2017,7,11,18,59,2017,7,11,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,11,20,0,2017,7,11,20,0,2017,7,11,21,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,11,21,0,2017,7,11,20,59,2017,7,11,22,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,12,6,0,2017,7,12,6,4,2017,7,12,7,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,12,7,0,2017,7,12,7,0,2017,7,12,8,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,12,8,0,2017,7,12,8,7,2017,7,12,9,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,12,10,0,2017,7,12,10,3,2017,7,12,11,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,12,12,0,2017,7,12,12,9,2017,7,12,13,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,12,13,0,2017,7,12,13,1,2017,7,12,14,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,12,14,0,2017,7,12,14,6,2017,7,12,15,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,12,15,0,2017,7,12,14,59,2017,7,12,16,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,12,16,0,2017,7,12,16,2,2017,7,12,17,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,12,17,0,2017,7,12,17,1,2017,7,12,18,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,12,18,0,2017,7,12,17,59,2017,7,12,19,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,12,19,0,2017,7,12,18,59,2017,7,12,20,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,12,20,0,2017,7,12,20,1,2017,7,12,21,24
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,12,21,0,2017,7,12,20,59,2017,7,12,22,26
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,12,6,0,2017,7,12,6,3,2017,7,12,7,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,12,7,0,2017,7,12,6,59,2017,7,12,8,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,12,8,0,2017,7,12,8,0,2017,7,12,9,31
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,12,9,0,2017,7,12,8,59,2017,7,12,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,12,10,0,2017,7,12,10,3,2017,7,12,11,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,12,11,0,2017,7,12,11,1,2017,7,12,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,12,12,0,2017,7,12,12,0,2017,7,12,13,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,12,13,0,2017,7,12,13,1,2017,7,12,14,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,12,14,0,2017,7,12,14,2,2017,7,12,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,12,15,0,2017,7,12,15,1,2017,7,12,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,12,16,0,2017,7,12,16,2,2017,7,12,17,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,12,17,0,2017,7,12,17,4,2017,7,12,18,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,12,18,0,2017,7,12,18,2,2017,7,12,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,12,19,0,2017,7,12,19,0,2017,7,12,20,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,12,20,0,2017,7,12,20,0,2017,7,12,21,22
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,12,21,0,2017,7,12,21,0,2017,7,12,22,26
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,13,6,0,2017,7,13,6,16,2017,7,13,7,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,13,7,0,2017,7,13,7,1,2017,7,13,8,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,13,9,0,2017,7,13,9,0,2017,7,13,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,13,10,0,2017,7,13,10,2,2017,7,13,11,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,13,11,0,2017,7,13,11,6,2017,7,13,12,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,13,12,0,2017,7,13,12,17,2017,7,13,13,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,13,13,0,2017,7,13,13,3,2017,7,13,14,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,13,14,0,2017,7,13,14,10,2017,7,13,15,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,13,15,0,2017,7,13,15,6,2017,7,13,16,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,13,16,0,2017,7,13,16,5,2017,7,13,17,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,13,17,0,2017,7,13,17,2,2017,7,13,18,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,13,18,0,2017,7,13,18,2,2017,7,13,19,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,13,19,0,2017,7,13,18,59,2017,7,13,20,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,13,20,0,2017,7,13,20,8,2017,7,13,21,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,13,21,0,2017,7,13,21,0,2017,7,13,22,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,13,6,0,2017,7,13,6,1,2017,7,13,7,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,13,7,0,2017,7,13,6,59,2017,7,13,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,13,8,0,2017,7,13,8,6,2017,7,13,9,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,13,9,0,2017,7,13,9,0,2017,7,13,10,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,13,10,0,2017,7,13,10,2,2017,7,13,11,46
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,13,11,0,2017,7,13,11,1,2017,7,13,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,13,12,0,2017,7,13,11,58,2017,7,13,13,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,13,13,0,2017,7,13,13,4,2017,7,13,14,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,13,14,0,2017,7,13,14,12,2017,7,13,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,13,15,0,2017,7,13,15,0,2017,7,13,16,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,13,16,0,2017,7,13,16,6,2017,7,13,17,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,13,17,0,2017,7,13,17,9,2017,7,13,18,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,13,18,0,2017,7,13,18,4,2017,7,13,19,42
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,13,19,0,2017,7,13,19,5,2017,7,13,20,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,13,20,0,2017,7,13,20,0,2017,7,13,21,22
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,13,21,0,2017,7,13,20,59,2017,7,13,22,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,14,7,0,2017,7,14,7,0,2017,7,14,8,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,14,8,0,2017,7,14,8,3,2017,7,14,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,14,9,0,2017,7,14,9,1,2017,7,14,10,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,14,10,0,2017,7,14,10,9,2017,7,14,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,14,11,0,2017,7,14,11,1,2017,7,14,12,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,14,12,0,2017,7,14,12,1,2017,7,14,13,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,14,13,0,2017,7,14,13,4,2017,7,14,14,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,14,14,0,2017,7,14,14,12,2017,7,14,15,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,14,15,0,2017,7,14,15,6,2017,7,14,16,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,14,16,0,2017,7,14,16,6,2017,7,14,17,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,14,17,0,2017,7,14,17,4,2017,7,14,18,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,14,18,0,2017,7,14,18,15,2017,7,14,19,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,14,19,0,2017,7,14,19,8,2017,7,14,20,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,14,20,0,2017,7,14,20,3,2017,7,14,21,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,14,21,0,2017,7,14,21,1,2017,7,14,22,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,14,22,0,2017,7,14,22,1,2017,7,14,23,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,14,7,0,2017,7,14,7,0,2017,7,14,8,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,14,8,0,2017,7,14,8,4,2017,7,14,9,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,14,9,0,2017,7,14,9,4,2017,7,14,10,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,14,10,0,2017,7,14,10,3,2017,7,14,11,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,14,11,0,2017,7,14,11,1,2017,7,14,12,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,14,12,0,2017,7,14,12,5,2017,7,14,13,38
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,14,13,0,2017,7,14,12,58,2017,7,14,14,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,14,15,0,2017,7,14,15,4,2017,7,14,16,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,14,16,0,2017,7,14,16,6,2017,7,14,17,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,14,17,0,2017,7,14,17,9,2017,7,14,18,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,14,18,0,2017,7,14,18,7,2017,7,14,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,14,19,0,2017,7,14,19,6,2017,7,14,20,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,14,20,0,2017,7,14,20,6,2017,7,14,21,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,14,21,0,2017,7,14,21,2,2017,7,14,22,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,14,22,0,2017,7,14,22,2,2017,7,14,23,37
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,15,6,0,2017,7,15,6,1,2017,7,15,7,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,15,7,0,2017,7,15,7,0,2017,7,15,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,15,8,0,2017,7,15,8,3,2017,7,15,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,15,9,0,2017,7,15,8,59,2017,7,15,10,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,15,10,0,2017,7,15,10,2,2017,7,15,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,15,11,0,2017,7,15,11,5,2017,7,15,12,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,15,12,0,2017,7,15,12,8,2017,7,15,13,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,15,13,0,2017,7,15,13,5,2017,7,15,14,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,15,14,0,2017,7,15,14,9,2017,7,15,15,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,15,15,0,2017,7,15,14,59,2017,7,15,16,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,15,16,0,2017,7,15,16,2,2017,7,15,17,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,15,18,0,2017,7,15,18,0,2017,7,15,19,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,15,19,0,2017,7,15,19,0,2017,7,15,20,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,15,20,0,2017,7,15,20,1,2017,7,15,21,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,15,21,0,2017,7,15,21,0,2017,7,15,22,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,15,6,0,2017,7,15,6,3,2017,7,15,7,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,15,7,0,2017,7,15,7,2,2017,7,15,8,24
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,15,8,0,2017,7,15,8,6,2017,7,15,9,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,15,9,0,2017,7,15,9,4,2017,7,15,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,15,10,0,2017,7,15,10,3,2017,7,15,11,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,15,11,0,2017,7,15,11,1,2017,7,15,12,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,15,12,0,2017,7,15,12,2,2017,7,15,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,15,13,0,2017,7,15,12,58,2017,7,15,14,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,15,14,0,2017,7,15,14,3,2017,7,15,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,15,15,0,2017,7,15,15,1,2017,7,15,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,15,16,0,2017,7,15,16,5,2017,7,15,17,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,15,17,0,2017,7,15,16,59,2017,7,15,18,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,15,18,0,2017,7,15,18,2,2017,7,15,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,15,19,0,2017,7,15,19,0,2017,7,15,20,36
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,15,20,0,2017,7,15,20,6,2017,7,15,21,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,15,21,0,2017,7,15,20,59,2017,7,15,22,27
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,16,7,0,2017,7,16,7,2,2017,7,16,8,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,16,8,0,2017,7,16,8,2,2017,7,16,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,16,9,0,2017,7,16,9,0,2017,7,16,10,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,16,10,0,2017,7,16,10,7,2017,7,16,11,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,16,11,0,2017,7,16,10,58,2017,7,16,12,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,16,12,0,2017,7,16,12,0,2017,7,16,13,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,16,13,0,2017,7,16,13,5,2017,7,16,14,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,16,22,0,2017,7,16,22,3,2017,7,16,23,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,16,7,0,2017,7,16,7,0,2017,7,16,8,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,16,8,0,2017,7,16,8,2,2017,7,16,9,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,16,9,0,2017,7,16,9,3,2017,7,16,10,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,16,10,0,2017,7,16,10,0,2017,7,16,11,28
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,16,11,0,2017,7,16,11,6,2017,7,16,12,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,16,12,0,2017,7,16,12,5,2017,7,16,13,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,16,13,0,2017,7,16,13,5,2017,7,16,14,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,16,22,0,2017,7,16,22,1,2017,7,16,23,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,17,12,0,2017,7,17,12,10,2017,7,17,13,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,17,13,0,2017,7,17,13,5,2017,7,17,14,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,17,14,0,2017,7,17,14,6,2017,7,17,15,29
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,17,15,0,2017,7,17,15,5,2017,7,17,16,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,17,16,0,2017,7,17,16,9,2017,7,17,17,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,17,17,0,2017,7,17,16,59,2017,7,17,18,28
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,17,18,0,2017,7,17,18,2,2017,7,17,19,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,17,19,0,2017,7,17,18,59,2017,7,17,20,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,17,21,0,2017,7,17,20,59,2017,7,17,22,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,17,12,0,2017,7,17,12,3,2017,7,17,13,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,17,13,0,2017,7,17,13,0,2017,7,17,14,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,17,14,0,2017,7,17,14,2,2017,7,17,15,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,17,15,0,2017,7,17,15,2,2017,7,17,16,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,17,16,0,2017,7,17,16,0,2017,7,17,17,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,17,17,0,2017,7,17,16,59,2017,7,17,18,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,17,18,0,2017,7,17,18,1,2017,7,17,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,17,19,0,2017,7,17,18,59,2017,7,17,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,17,20,0,2017,7,17,19,59,2017,7,17,21,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,17,21,0,2017,7,17,21,0,2017,7,17,22,26
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,18,6,0,2017,7,18,6,1,2017,7,18,7,24
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,18,7,0,2017,7,18,7,1,2017,7,18,8,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,18,8,0,2017,7,18,8,3,2017,7,18,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,18,9,0,2017,7,18,9,4,2017,7,18,10,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,18,10,0,2017,7,18,10,4,2017,7,18,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,18,11,0,2017,7,18,11,5,2017,7,18,12,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,18,12,0,2017,7,18,12,5,2017,7,18,13,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,18,13,0,2017,7,18,13,3,2017,7,18,14,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,18,14,0,2017,7,18,14,6,2017,7,18,15,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,18,15,0,2017,7,18,15,2,2017,7,18,16,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,18,16,0,2017,7,18,16,6,2017,7,18,17,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,18,17,0,2017,7,18,17,0,2017,7,18,18,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,18,18,0,2017,7,18,18,1,2017,7,18,19,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,18,19,0,2017,7,18,18,58,2017,7,18,20,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,18,20,0,2017,7,18,20,0,2017,7,18,21,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,18,21,0,2017,7,18,20,59,2017,7,18,22,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,18,6,0,2017,7,18,6,1,2017,7,18,7,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,18,7,0,2017,7,18,7,0,2017,7,18,8,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,18,8,0,2017,7,18,8,1,2017,7,18,9,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,18,9,0,2017,7,18,9,4,2017,7,18,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,18,10,0,2017,7,18,10,1,2017,7,18,11,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,18,11,0,2017,7,18,11,6,2017,7,18,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,18,12,0,2017,7,18,12,3,2017,7,18,13,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,18,13,0,2017,7,18,13,3,2017,7,18,14,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,18,14,0,2017,7,18,14,4,2017,7,18,15,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,18,15,0,2017,7,18,15,1,2017,7,18,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,18,16,0,2017,7,18,16,1,2017,7,18,17,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,18,17,0,2017,7,18,17,2,2017,7,18,18,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,18,18,0,2017,7,18,18,2,2017,7,18,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,18,19,0,2017,7,18,19,3,2017,7,18,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,18,20,0,2017,7,18,20,9,2017,7,18,21,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,18,21,0,2017,7,18,20,59,2017,7,18,22,26
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,19,6,0,2017,7,19,6,3,2017,7,19,7,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,19,7,0,2017,7,19,7,1,2017,7,19,8,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,19,9,0,2017,7,19,9,0,2017,7,19,10,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,19,10,0,2017,7,19,10,0,2017,7,19,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,19,11,0,2017,7,19,11,2,2017,7,19,12,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,19,12,0,2017,7,19,12,12,2017,7,19,13,40
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,19,13,0,2017,7,19,13,3,2017,7,19,14,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,19,14,0,2017,7,19,14,0,2017,7,19,15,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,19,15,0,2017,7,19,15,2,2017,7,19,16,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,19,16,0,2017,7,19,16,3,2017,7,19,17,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,19,17,0,2017,7,19,17,1,2017,7,19,18,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,19,18,0,2017,7,19,18,2,2017,7,19,19,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,19,19,0,2017,7,19,18,59,2017,7,19,20,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,19,20,0,2017,7,19,20,12,2017,7,19,21,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,19,21,0,2017,7,19,21,0,2017,7,19,22,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,19,6,0,2017,7,19,6,2,2017,7,19,7,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,19,7,0,2017,7,19,7,0,2017,7,19,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,19,8,0,2017,7,19,8,1,2017,7,19,9,24
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,19,9,0,2017,7,19,9,0,2017,7,19,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,19,10,0,2017,7,19,10,4,2017,7,19,11,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,19,11,0,2017,7,19,11,2,2017,7,19,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,19,12,0,2017,7,19,12,3,2017,7,19,13,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,19,13,0,2017,7,19,13,6,2017,7,19,14,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,19,14,0,2017,7,19,14,11,2017,7,19,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,19,15,0,2017,7,19,15,4,2017,7,19,16,29
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,19,16,0,2017,7,19,16,7,2017,7,19,17,38
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,19,17,0,2017,7,19,17,0,2017,7,19,18,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,19,18,0,2017,7,19,18,2,2017,7,19,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,19,19,0,2017,7,19,19,0,2017,7,19,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,19,20,0,2017,7,19,20,0,2017,7,19,21,20
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,19,21,0,2017,7,19,20,58,2017,7,19,22,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,20,6,0,2017,7,20,6,5,2017,7,20,7,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,20,7,0,2017,7,20,7,0,2017,7,20,8,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,20,8,0,2017,7,20,8,7,2017,7,20,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,20,9,0,2017,7,20,9,2,2017,7,20,10,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,20,10,0,2017,7,20,10,2,2017,7,20,11,33
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,20,11,0,2017,7,20,11,11,2017,7,20,12,42
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,20,12,0,2017,7,20,12,6,2017,7,20,13,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,20,13,0,2017,7,20,13,4,2017,7,20,14,42
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,20,14,0,2017,7,20,14,1,2017,7,20,15,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,20,15,0,2017,7,20,15,8,2017,7,20,16,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,20,16,0,2017,7,20,16,15,2017,7,20,17,37
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,20,17,0,2017,7,20,17,12,2017,7,20,18,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,20,18,0,2017,7,20,18,1,2017,7,20,19,24
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,20,19,0,2017,7,20,19,3,2017,7,20,20,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,20,20,0,2017,7,20,20,4,2017,7,20,21,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,20,21,0,2017,7,20,20,59,2017,7,20,22,27
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,20,6,0,2017,7,20,6,3,2017,7,20,7,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,20,7,0,2017,7,20,7,0,2017,7,20,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,20,8,0,2017,7,20,8,2,2017,7,20,9,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,20,9,0,2017,7,20,9,1,2017,7,20,10,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,20,10,0,2017,7,20,10,3,2017,7,20,11,33
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,20,11,0,2017,7,20,11,9,2017,7,20,12,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,20,12,0,2017,7,20,12,4,2017,7,20,13,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,20,13,0,2017,7,20,13,15,2017,7,20,14,38
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,20,14,0,2017,7,20,14,11,2017,7,20,15,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,20,15,0,2017,7,20,15,16,2017,7,20,16,40
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,20,16,0,2017,7,20,16,1,2017,7,20,17,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,20,17,0,2017,7,20,17,3,2017,7,20,18,38
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,20,18,0,2017,7,20,18,11,2017,7,20,19,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,20,19,0,2017,7,20,19,10,2017,7,20,20,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,20,20,0,2017,7,20,20,2,2017,7,20,21,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,20,21,0,2017,7,20,21,1,2017,7,20,22,25
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,21,7,0,2017,7,21,7,1,2017,7,21,8,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,21,8,0,2017,7,21,8,1,2017,7,21,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,21,9,0,2017,7,21,9,4,2017,7,21,10,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,21,10,0,2017,7,21,10,7,2017,7,21,11,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,21,11,0,2017,7,21,11,8,2017,7,21,12,40
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,21,13,0,2017,7,21,13,10,2017,7,21,14,40
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,21,14,0,2017,7,21,14,16,2017,7,21,15,42
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,21,15,0,2017,7,21,15,13,2017,7,21,16,46
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,21,16,0,2017,7,21,16,18,2017,7,21,17,46
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,21,17,0,2017,7,21,17,20,2017,7,21,18,48
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,21,18,0,2017,7,21,18,16,2017,7,21,19,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,21,19,0,2017,7,21,19,18,2017,7,21,20,46
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,21,20,0,2017,7,21,20,16,2017,7,21,21,42
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,21,21,0,2017,7,21,21,18,2017,7,21,22,43
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,21,22,0,2017,7,21,22,7,2017,7,21,23,42
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,21,7,0,2017,7,21,7,2,2017,7,21,8,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,21,8,0,2017,7,21,8,6,2017,7,21,9,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,21,9,0,2017,7,21,9,8,2017,7,21,10,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,21,10,0,2017,7,21,10,6,2017,7,21,11,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,21,11,0,2017,7,21,11,6,2017,7,21,12,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,21,12,0,2017,7,21,12,12,2017,7,21,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,21,13,0,2017,7,21,13,11,2017,7,21,14,40
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,21,14,0,2017,7,21,14,12,2017,7,21,15,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,21,15,0,2017,7,21,15,18,2017,7,21,16,42
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,21,16,0,2017,7,21,16,19,2017,7,21,17,44
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,21,17,0,2017,7,21,17,20,2017,7,21,18,44
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,21,18,0,2017,7,21,18,22,2017,7,21,19,44
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,21,19,0,2017,7,21,19,20,2017,7,21,20,46
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,21,20,0,2017,7,21,20,11,2017,7,21,21,42
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,21,21,0,2017,7,21,21,13,2017,7,21,22,44
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,21,22,0,2017,7,21,22,3,2017,7,21,23,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,22,6,0,2017,7,22,6,1,2017,7,22,7,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,22,7,0,2017,7,22,7,0,2017,7,22,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,22,8,0,2017,7,22,8,6,2017,7,22,9,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,22,9,0,2017,7,22,9,1,2017,7,22,10,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,22,11,0,2017,7,22,11,9,2017,7,22,12,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,22,12,0,2017,7,22,12,16,2017,7,22,13,46
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,22,13,0,2017,7,22,13,4,2017,7,22,14,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,22,14,0,2017,7,22,14,7,2017,7,22,15,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,22,15,0,2017,7,22,15,15,2017,7,22,16,44
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,22,16,0,2017,7,22,16,7,2017,7,22,17,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,22,17,0,2017,7,22,17,1,2017,7,22,18,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,22,18,0,2017,7,22,18,3,2017,7,22,19,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,22,19,0,2017,7,22,19,3,2017,7,22,20,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,22,20,0,2017,7,22,20,2,2017,7,22,21,26
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,22,21,0,2017,7,22,21,0,2017,7,22,22,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,22,6,0,2017,7,22,6,3,2017,7,22,7,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,22,7,0,2017,7,22,7,2,2017,7,22,8,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,22,8,0,2017,7,22,8,6,2017,7,22,9,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,22,9,0,2017,7,22,9,2,2017,7,22,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,22,10,0,2017,7,22,10,10,2017,7,22,11,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,22,11,0,2017,7,22,11,2,2017,7,22,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,22,12,0,2017,7,22,12,4,2017,7,22,13,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,22,13,0,2017,7,22,13,11,2017,7,22,14,42
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,22,14,0,2017,7,22,14,17,2017,7,22,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,22,15,0,2017,7,22,15,4,2017,7,22,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,22,16,0,2017,7,22,16,12,2017,7,22,17,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,22,17,0,2017,7,22,17,12,2017,7,22,18,42
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,22,18,0,2017,7,22,18,4,2017,7,22,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,22,19,0,2017,7,22,19,0,2017,7,22,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,22,20,0,2017,7,22,20,2,2017,7,22,21,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,22,21,0,2017,7,22,20,59,2017,7,22,22,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,23,7,0,2017,7,23,7,0,2017,7,23,8,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,23,8,0,2017,7,23,8,4,2017,7,23,9,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,23,9,0,2017,7,23,9,1,2017,7,23,10,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,23,10,0,2017,7,23,10,7,2017,7,23,11,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,23,11,0,2017,7,23,11,8,2017,7,23,12,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,23,12,0,2017,7,23,12,6,2017,7,23,13,40
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,23,13,0,2017,7,23,13,9,2017,7,23,14,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,23,14,0,2017,7,23,14,15,2017,7,23,15,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,23,15,0,2017,7,23,15,8,2017,7,23,16,42
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,23,16,0,2017,7,23,16,11,2017,7,23,17,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,23,17,0,2017,7,23,17,9,2017,7,23,18,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,23,18,0,2017,7,23,18,13,2017,7,23,19,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,23,19,0,2017,7,23,19,13,2017,7,23,20,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,23,20,0,2017,7,23,20,9,2017,7,23,21,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,23,21,0,2017,7,23,21,12,2017,7,23,22,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,23,22,0,2017,7,23,22,13,2017,7,23,23,48
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,23,7,0,2017,7,23,6,59,2017,7,23,8,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,23,8,0,2017,7,23,8,2,2017,7,23,9,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,23,9,0,2017,7,23,9,4,2017,7,23,10,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,23,10,0,2017,7,23,10,8,2017,7,23,11,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,23,11,0,2017,7,23,11,8,2017,7,23,12,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,23,12,0,2017,7,23,12,12,2017,7,23,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,23,13,0,2017,7,23,13,8,2017,7,23,14,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,23,14,0,2017,7,23,14,11,2017,7,23,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,23,15,0,2017,7,23,15,12,2017,7,23,16,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,23,16,0,2017,7,23,16,15,2017,7,23,17,38
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,23,17,0,2017,7,23,17,13,2017,7,23,18,38
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,23,18,0,2017,7,23,18,10,2017,7,23,19,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,23,19,0,2017,7,23,19,11,2017,7,23,20,40
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,23,20,0,2017,7,23,20,6,2017,7,23,21,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,23,21,0,2017,7,23,21,12,2017,7,23,22,40
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,23,22,0,2017,7,23,22,2,2017,7,23,23,37
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,24,6,0,2017,7,24,6,25,2017,7,24,7,46
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,24,7,0,2017,7,24,7,0,2017,7,24,8,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,24,9,0,2017,7,24,9,3,2017,7,24,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,24,10,0,2017,7,24,10,9,2017,7,24,11,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,24,11,0,2017,7,24,11,12,2017,7,24,12,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,24,12,0,2017,7,24,12,8,2017,7,24,13,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,24,13,0,2017,7,24,13,7,2017,7,24,14,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,24,14,0,2017,7,24,14,11,2017,7,24,15,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,24,15,0,2017,7,24,15,10,2017,7,24,16,42
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,24,16,0,2017,7,24,16,9,2017,7,24,17,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,24,17,0,2017,7,24,17,6,2017,7,24,18,42
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,24,18,0,2017,7,24,18,6,2017,7,24,19,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,24,19,0,2017,7,24,19,10,2017,7,24,20,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,24,20,0,2017,7,24,20,7,2017,7,24,21,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,24,21,0,2017,7,24,21,4,2017,7,24,22,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,24,6,0,2017,7,24,6,2,2017,7,24,7,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,24,7,0,2017,7,24,7,0,2017,7,24,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,24,8,0,2017,7,24,8,13,2017,7,24,9,39
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,24,9,0,2017,7,24,9,4,2017,7,24,10,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,24,10,0,2017,7,24,10,2,2017,7,24,11,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,24,11,0,2017,7,24,11,1,2017,7,24,12,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,24,12,0,2017,7,24,12,8,2017,7,24,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,24,13,0,2017,7,24,13,10,2017,7,24,14,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,24,14,0,2017,7,24,14,4,2017,7,24,15,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,24,15,0,2017,7,24,15,6,2017,7,24,16,36
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,24,16,0,2017,7,24,16,11,2017,7,24,17,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,24,17,0,2017,7,24,17,7,2017,7,24,18,40
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,24,18,0,2017,7,24,18,5,2017,7,24,19,33
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,24,19,0,2017,7,24,19,10,2017,7,24,20,38
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,24,20,0,2017,7,24,20,6,2017,7,24,21,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,24,21,0,2017,7,24,21,2,2017,7,24,22,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,25,6,0,2017,7,25,6,2,2017,7,25,7,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,25,7,0,2017,7,25,7,0,2017,7,25,8,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,25,8,0,2017,7,25,8,12,2017,7,25,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,25,9,0,2017,7,25,9,5,2017,7,25,10,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,25,10,0,2017,7,25,10,3,2017,7,25,11,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,25,11,0,2017,7,25,11,3,2017,7,25,12,28
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,25,12,0,2017,7,25,12,14,2017,7,25,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,25,13,0,2017,7,25,13,1,2017,7,25,14,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,25,14,0,2017,7,25,14,9,2017,7,25,15,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,25,15,0,2017,7,25,15,0,2017,7,25,16,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,25,16,0,2017,7,25,16,5,2017,7,25,17,40
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,25,17,0,2017,7,25,17,2,2017,7,25,18,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,25,18,0,2017,7,25,18,7,2017,7,25,19,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,25,19,0,2017,7,25,19,1,2017,7,25,20,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,25,20,0,2017,7,25,20,2,2017,7,25,21,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,25,21,0,2017,7,25,20,58,2017,7,25,22,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,25,6,0,2017,7,25,6,8,2017,7,25,7,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,25,7,0,2017,7,25,7,1,2017,7,25,8,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,25,8,0,2017,7,25,8,0,2017,7,25,9,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,25,9,0,2017,7,25,9,1,2017,7,25,10,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,25,10,0,2017,7,25,10,4,2017,7,25,11,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,25,11,0,2017,7,25,11,0,2017,7,25,12,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,25,12,0,2017,7,25,12,4,2017,7,25,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,25,13,0,2017,7,25,13,0,2017,7,25,14,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,25,14,0,2017,7,25,14,4,2017,7,25,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,25,15,0,2017,7,25,15,1,2017,7,25,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,25,16,0,2017,7,25,16,11,2017,7,25,17,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,25,17,0,2017,7,25,17,1,2017,7,25,18,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,25,18,0,2017,7,25,18,6,2017,7,25,19,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,25,19,0,2017,7,25,19,0,2017,7,25,20,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,25,20,0,2017,7,25,20,1,2017,7,25,21,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,25,21,0,2017,7,25,20,59,2017,7,25,22,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,26,6,0,2017,7,26,6,3,2017,7,26,7,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,26,7,0,2017,7,26,7,0,2017,7,26,8,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,26,8,0,2017,7,26,8,1,2017,7,26,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,26,9,0,2017,7,26,9,0,2017,7,26,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,26,10,0,2017,7,26,10,6,2017,7,26,11,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,26,11,0,2017,7,26,11,5,2017,7,26,12,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,26,12,0,2017,7,26,12,16,2017,7,26,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,26,13,0,2017,7,26,13,3,2017,7,26,14,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,26,14,0,2017,7,26,14,5,2017,7,26,15,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,26,15,0,2017,7,26,15,4,2017,7,26,16,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,26,16,0,2017,7,26,16,2,2017,7,26,17,36
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,26,17,0,2017,7,26,17,1,2017,7,26,18,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,26,18,0,2017,7,26,18,2,2017,7,26,19,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,26,19,0,2017,7,26,19,0,2017,7,26,20,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,26,20,0,2017,7,26,19,59,2017,7,26,21,24
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,26,21,0,2017,7,26,21,2,2017,7,26,22,26
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,26,6,0,2017,7,26,6,2,2017,7,26,7,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,26,7,0,2017,7,26,6,58,2017,7,26,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,26,8,0,2017,7,26,8,9,2017,7,26,9,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,26,9,0,2017,7,26,9,4,2017,7,26,10,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,26,10,0,2017,7,26,10,4,2017,7,26,11,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,26,11,0,2017,7,26,11,1,2017,7,26,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,26,12,0,2017,7,26,12,4,2017,7,26,13,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,26,13,0,2017,7,26,13,1,2017,7,26,14,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,26,14,0,2017,7,26,14,4,2017,7,26,15,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,26,15,0,2017,7,26,15,3,2017,7,26,16,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,26,16,0,2017,7,26,16,6,2017,7,26,17,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,26,17,0,2017,7,26,17,5,2017,7,26,18,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,26,18,0,2017,7,26,18,5,2017,7,26,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,26,19,0,2017,7,26,19,2,2017,7,26,20,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,26,20,0,2017,7,26,19,59,2017,7,26,21,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,26,21,0,2017,7,26,21,0,2017,7,26,22,28
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,27,6,0,2017,7,27,6,1,2017,7,27,7,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,27,7,0,2017,7,27,6,59,2017,7,27,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,27,8,0,2017,7,27,8,3,2017,7,27,9,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,27,9,0,2017,7,27,9,1,2017,7,27,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,27,10,0,2017,7,27,10,3,2017,7,27,11,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,27,11,0,2017,7,27,11,2,2017,7,27,12,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,27,12,0,2017,7,27,12,11,2017,7,27,13,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,27,13,0,2017,7,27,13,4,2017,7,27,14,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,27,14,0,2017,7,27,14,9,2017,7,27,15,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,27,15,0,2017,7,27,15,6,2017,7,27,16,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,27,16,0,2017,7,27,16,9,2017,7,27,17,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,27,17,0,2017,7,27,17,5,2017,7,27,18,41
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,27,18,0,2017,7,27,18,1,2017,7,27,19,26
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,27,19,0,2017,7,27,19,8,2017,7,27,20,40
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,27,20,0,2017,7,27,20,9,2017,7,27,21,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,27,21,0,2017,7,27,21,8,2017,7,27,22,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,27,6,0,2017,7,27,6,1,2017,7,27,7,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,27,7,0,2017,7,27,7,0,2017,7,27,8,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,27,8,0,2017,7,27,8,2,2017,7,27,9,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,27,9,0,2017,7,27,9,3,2017,7,27,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,27,10,0,2017,7,27,10,8,2017,7,27,11,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,27,11,0,2017,7,27,11,3,2017,7,27,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,27,12,0,2017,7,27,12,6,2017,7,27,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,27,13,0,2017,7,27,13,2,2017,7,27,14,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,27,14,0,2017,7,27,14,10,2017,7,27,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,27,15,0,2017,7,27,15,5,2017,7,27,16,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,27,16,0,2017,7,27,16,4,2017,7,27,17,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,27,17,0,2017,7,27,17,11,2017,7,27,18,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,27,18,0,2017,7,27,18,15,2017,7,27,19,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,27,19,0,2017,7,27,19,10,2017,7,27,20,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,27,20,0,2017,7,27,20,4,2017,7,27,21,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,27,21,0,2017,7,27,21,8,2017,7,27,22,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,28,7,0,2017,7,28,6,59,2017,7,28,8,35
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,28,8,0,2017,7,28,8,4,2017,7,28,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,28,9,0,2017,7,28,9,7,2017,7,28,10,36
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,28,10,0,2017,7,28,10,9,2017,7,28,11,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,28,11,0,2017,7,28,11,6,2017,7,28,12,30
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,28,12,0,2017,7,28,12,6,2017,7,28,13,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,28,13,0,2017,7,28,13,14,2017,7,28,14,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,28,14,0,2017,7,28,14,10,2017,7,28,15,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,28,15,0,2017,7,28,15,6,2017,7,28,16,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,28,16,0,2017,7,28,16,8,2017,7,28,17,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,28,17,0,2017,7,28,17,15,2017,7,28,18,44
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,28,18,0,2017,7,28,18,13,2017,7,28,19,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,28,19,0,2017,7,28,19,15,2017,7,28,20,50
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,28,20,0,2017,7,28,20,13,2017,7,28,21,44
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,28,21,0,2017,7,28,21,22,2017,7,28,22,46
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,28,22,0,2017,7,28,22,12,2017,7,28,23,47
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,28,7,0,2017,7,28,7,4,2017,7,28,8,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,28,8,0,2017,7,28,8,6,2017,7,28,9,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,28,9,0,2017,7,28,9,7,2017,7,28,10,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,28,10,0,2017,7,28,10,6,2017,7,28,11,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,28,11,0,2017,7,28,11,8,2017,7,28,12,38
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,28,12,0,2017,7,28,12,5,2017,7,28,13,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,28,13,0,2017,7,28,13,2,2017,7,28,14,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,28,14,0,2017,7,28,14,3,2017,7,28,15,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,28,15,0,2017,7,28,15,13,2017,7,28,16,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,28,16,0,2017,7,28,16,14,2017,7,28,17,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,28,17,0,2017,7,28,17,14,2017,7,28,18,38
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,28,18,0,2017,7,28,18,15,2017,7,28,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,28,19,0,2017,7,28,19,20,2017,7,28,20,44
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,28,20,0,2017,7,28,20,18,2017,7,28,21,44
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,28,21,0,2017,7,28,21,18,2017,7,28,22,46
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,28,22,0,2017,7,28,22,6,2017,7,28,23,41
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,29,6,0,2017,7,29,6,3,2017,7,29,7,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,29,7,0,2017,7,29,7,0,2017,7,29,8,30
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,29,8,0,2017,7,29,8,15,2017,7,29,9,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,29,9,0,2017,7,29,8,59,2017,7,29,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,29,10,0,2017,7,29,10,5,2017,7,29,11,36
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,29,11,0,2017,7,29,11,8,2017,7,29,12,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,29,12,0,2017,7,29,12,10,2017,7,29,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,29,13,0,2017,7,29,13,12,2017,7,29,14,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,29,14,0,2017,7,29,14,12,2017,7,29,15,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,29,15,0,2017,7,29,15,11,2017,7,29,16,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,29,16,0,2017,7,29,16,11,2017,7,29,17,40
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,29,17,0,2017,7,29,17,8,2017,7,29,18,36
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,29,18,0,2017,7,29,18,4,2017,7,29,19,34
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,29,19,0,2017,7,29,19,21,2017,7,29,20,52
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,29,20,0,2017,7,29,20,2,2017,7,29,21,28
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,29,21,0,2017,7,29,21,2,2017,7,29,22,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,29,6,0,2017,7,29,6,14,2017,7,29,7,38
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,29,7,0,2017,7,29,7,0,2017,7,29,8,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,29,8,0,2017,7,29,8,4,2017,7,29,9,32
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,29,9,0,2017,7,29,9,2,2017,7,29,10,30
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,29,10,0,2017,7,29,10,15,2017,7,29,11,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,29,11,0,2017,7,29,11,6,2017,7,29,12,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,29,12,0,2017,7,29,12,9,2017,7,29,13,36
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,29,13,0,2017,7,29,13,3,2017,7,29,14,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,29,14,0,2017,7,29,14,9,2017,7,29,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,29,15,0,2017,7,29,15,6,2017,7,29,16,36
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,29,16,0,2017,7,29,16,3,2017,7,29,17,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,29,17,0,2017,7,29,17,7,2017,7,29,18,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,29,18,0,2017,7,29,18,8,2017,7,29,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,29,19,0,2017,7,29,19,2,2017,7,29,20,36
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,29,20,0,2017,7,29,20,2,2017,7,29,21,28
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,29,21,0,2017,7,29,21,16,2017,7,29,22,38
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,30,7,0,2017,7,30,7,1,2017,7,30,8,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,30,8,0,2017,7,30,8,1,2017,7,30,9,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,30,9,0,2017,7,30,9,4,2017,7,30,10,38
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,30,10,0,2017,7,30,10,8,2017,7,30,11,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,30,11,0,2017,7,30,11,6,2017,7,30,12,34
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,30,12,0,2017,7,30,12,8,2017,7,30,13,32
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,30,13,0,2017,7,30,13,3,2017,7,30,14,28
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,30,15,0,2017,7,30,16,23,2017,7,30,18,8
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,30,16,0,2017,7,30,16,6,2017,7,30,17,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,30,17,0,2017,7,30,17,13,2017,7,30,19,0
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,30,18,0,2017,7,30,18,16,2017,7,30,19,42
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,30,19,0,2017,7,30,20,51,2017,7,30,22,18
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,30,20,0,2017,7,30,20,4,2017,7,30,21,30
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,30,21,0,2017,7,30,21,35,2017,7,30,23,2
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,30,22,0,2017,7,30,22,15,2017,7,30,23,50
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,30,7,0,2017,7,30,7,0,2017,7,30,8,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,30,8,0,2017,7,30,8,1,2017,7,30,9,34
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,30,9,0,2017,7,30,9,8,2017,7,30,10,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,30,10,0,2017,7,30,10,5,2017,7,30,11,26
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,30,11,0,2017,7,30,11,8,2017,7,30,12,32
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,30,12,0,2017,7,30,12,2,2017,7,30,13,34
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,30,14,0,2017,7,30,14,12,2017,7,30,15,36
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,30,15,0,2017,7,30,15,3,2017,7,30,16,36
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,30,16,0,2017,7,30,16,13,2017,7,30,17,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,30,17,0,2017,7,30,18,53,2017,7,30,20,18
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,30,18,0,2017,7,30,18,8,2017,7,30,19,30
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,30,19,0,2017,7,30,19,41,2017,7,30,21,4
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,30,20,0,2017,7,30,20,22,2017,7,30,21,50
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,30,21,0,2017,7,30,22,49,2017,7,31,0,24
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,30,22,0,2017,7,30,22,3,2017,7,30,23,38
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,31,6,0,2017,7,31,6,4,2017,7,31,7,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,31,7,0,2017,7,31,7,0,2017,7,31,8,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,31,8,0,2017,7,31,8,3,2017,7,31,9,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,31,9,0,2017,7,31,9,2,2017,7,31,10,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,31,10,0,2017,7,31,10,1,2017,7,31,11,30
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,31,11,0,2017,7,31,11,6,2017,7,31,12,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,31,12,0,2017,7,31,12,10,2017,7,31,13,34
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,31,13,0,2017,7,31,13,8,2017,7,31,14,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,31,14,0,2017,7,31,14,10,2017,7,31,15,40
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,31,15,0,2017,7,31,15,4,2017,7,31,16,34
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,31,16,0,2017,7,31,16,18,2017,7,31,17,38
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,31,17,0,2017,7,31,17,7,2017,7,31,18,32
+Tsawwassen,Swartz Bay,Queen of New Westminster,2017,7,31,18,0,2017,7,31,18,7,2017,7,31,19,32
+Tsawwassen,Swartz Bay,Spirit of British Columbia,2017,7,31,19,0,2017,7,31,19,4,2017,7,31,20,32
+Tsawwassen,Swartz Bay,Coastal Celebration,2017,7,31,20,0,2017,7,31,20,4,2017,7,31,21,26
+Tsawwassen,Swartz Bay,Spirit of Vancouver Island,2017,7,31,21,0,2017,7,31,21,0,2017,7,31,22,28
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,31,6,0,2017,7,31,6,2,2017,7,31,7,32
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,31,7,0,2017,7,31,7,1,2017,7,31,8,30
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,31,8,0,2017,7,31,8,4,2017,7,31,9,26
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,31,9,0,2017,7,31,9,1,2017,7,31,10,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,31,10,0,2017,7,31,10,8,2017,7,31,11,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,31,11,0,2017,7,31,11,3,2017,7,31,12,32
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,31,12,0,2017,7,31,12,4,2017,7,31,13,30
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,31,13,0,2017,7,31,13,6,2017,7,31,14,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,31,14,0,2017,7,31,14,10,2017,7,31,15,40
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,31,15,0,2017,7,31,15,8,2017,7,31,16,37
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,31,16,0,2017,7,31,16,12,2017,7,31,17,40
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,31,17,0,2017,7,31,17,4,2017,7,31,18,34
+Swartz Bay,Tsawwassen,Coastal Celebration,2017,7,31,18,0,2017,7,31,18,4,2017,7,31,19,34
+Swartz Bay,Tsawwassen,Spirit of Vancouver Island,2017,7,31,19,0,2017,7,31,19,2,2017,7,31,20,28
+Swartz Bay,Tsawwassen,Queen of New Westminster,2017,7,31,20,0,2017,7,31,20,0,2017,7,31,21,23
+Swartz Bay,Tsawwassen,Spirit of British Columbia,2017,7,31,21,0,2017,7,31,20,59,2017,7,31,22,28
